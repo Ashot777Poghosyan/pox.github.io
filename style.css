@@ -1,0 +1,49 @@
+#div{
+width: 60%;
+min-width: 900px;
+max-width: 9000px;
+margin: 10px auto;
+padding: 30px;
+text-align: justify;
+border: 1px solid coral; red;
+border-radius: 40px;
+height: 1200px;
+background-color: red;
+}
+div{
+display: black;
+}
+.ftitle{
+font-size: 24px;
+margin: 0 0 20px0;
+font-weight: 700;
+}
+img {
+float: left;
+}
+
+
+*, *::before, *::after {
+box-sizing: border-box;
+}
+*, *::before, *::after {
+box-sizing: border-box;
+}
+ul {
+display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+padding-inline-start: 40px;
+}
+ol, ul, dl, ol li, ul li {
+margin: 0;
+list-style: none;
+padding: 0;
+}
+.f-fields>ol, .f-fields>ul {
+font-size: 13px;
+float: left;
+width: 100%;
+}
